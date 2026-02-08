@@ -173,7 +173,7 @@ These directly affect money, data accuracy, or system access:
 ### 5.1 Authentication
 
 **Happy Path:**
-- [ ] Login with valid credentials for each role (Super Admin, Admin, User)
+- [x] Login with valid credentials for each role (Super Admin, Admin, User)
 - [ ] After login, user lands on the correct dashboard
 - [ ] Logout works and redirects to login page
 - [ ] After logout, cannot access protected pages by typing URL directly
